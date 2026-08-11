@@ -21,6 +21,9 @@ The report explores key retail and sales metrics, using Power BI to uncover tren
 - Publishing and sharing reports
 
 ### 📐 **Data Modelling & DAX**
+- Understanding relationships between tables
+- Creating clean and efficient dimensional structures
+- Building a structured data model suitable for reporting
 - Built calculated columns for categorisation (e.g., product groups, sales bands).  
 - Created DAX measures for KPIs such as:
   - Total Sales  
@@ -48,14 +51,29 @@ These visuals work together to help users quickly identify patterns, outliers, a
 
 ---
 
-## 📖 Data Storytelling
+📁 Repository Contents
+Power BI report files (.pbix)
+Screenshots of completed labs:
+ - Lab 1 – Get data 
+ - Lab 2 – Clean, transform, and load data
+ - Lab 3 – Configure a semantic model in Power BI
+ - Lab 4 – Create DAX calculations in semantic models
+ - Lab 5 – Modify DAX filter context in Power BI
+ - Lab 6 – Use DAX time intelligence functions in Power BI
+ - Lab 7 – Create visual calculations in Power BI Desktop
+ - Lab 8 – Design Power BI reports
+ - Lab 9 -  Enhance Power BI report design
+ - Microsoft Learn - From Excel workbook to stunning report
+ - Microsoft Learn - Combine data from Excel and an OData feed
 
-The report focuses on making retail and sales data easy to understand for stakeholders. Key insights include:
+Example visuals from each task
 
-- Identifying high‑performing regions and products  
-- Spotting seasonal trends in customer purchasing behaviour  
-- Highlighting areas where sales are declining and may require intervention  
-- Supporting strategic decisions with clear, evidence‑based visuals  
+🛠 Tools Used
+- Microsoft Power BI Desktop
+- Power Query Editor
+- Data Model & Relationship View
+- Power BI reporting tools
+- Dashboard creation features
 
 The dashboard is designed to be intuitive, interactive, and actionable—ideal for business users who need fast insights.
 
@@ -68,14 +86,18 @@ The dashboard is designed to be intuitive, interactive, and actionable—ideal f
 <img width="504" height="242" alt="image" src="https://github.com/user-attachments/assets/c4e85b06-6da4-4951-a54c-b842d1e5369b" />
 
 ## 🌐 Sales Data Report
-👉 **[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjI0YTRlNWQtNjBmMy00NWMzLTk4NDQtMWYzOGM1N2U1MmY1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+👉 **[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjI0YTRlNWQtNjBmMy00NWMzLTk4NDQtMWYzOGM1N2U1MmY1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
 
 <img width="504" height="237" alt="image" src="https://github.com/user-attachments/assets/38249309-e26c-4c52-97b4-e811cb127fac" />
 
 ## 🌐 Sales Report
-👉 **[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzUzYjc3OGEtNjFjNS00ZjE2LTkzNzUtZWFjOWFkOTdlNmIxIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+👉 **[View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzUzYjc3OGEtNjFjNS00ZjE2LTkzNzUtZWFjOWFkOTdlNmIxIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
 
-<img width="504" height="282" alt="image" src="https://github.com/user-attachments/assets/681227bb-07f2-49d4-892c-14c8bb23783d" /> <img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/bcccbc92-fe84-4983-9122-308d306a1a51" />
+<img width="504" height="282" alt="image" src="https://github.com/user-attachments/assets/681227bb-07f2-49d4-892c-14c8bb23783d" /> 
+
+<img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/09ac24a2-9b36-4e3a-a402-2a81f4b55696" />
+
+<img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/bcccbc92-fe84-4983-9122-308d306a1a51" />
 
 ---
 
